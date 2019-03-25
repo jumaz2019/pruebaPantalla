@@ -1,0 +1,6 @@
+Para correr la practica, debe llamar el modulo de codigo "datosppal".
+* Para listar solamente los cursos: node datosppal
+* Para registrar estudiante en un curso: node datosppal inscribir i= 1 n=Carlos c=123456
+	El alias "i" es el ID. Los numeros a digitar deben estar entre 1 y 3
+	El alias "n" corresponde a la variable nombre
+	El alias "c" corresponde a la variable cedula

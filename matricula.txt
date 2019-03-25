@@ -1,0 +1,1 @@
+El estudiante Juan<br /> Con cedula 123456<br />Se ha matriculado en el curso <br />Bolsa de valores tiene una duracion de 32 horas y un valor de $150000 pesos.
